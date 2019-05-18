@@ -1,7 +1,7 @@
 /**
  * Created by Tomek on 2016-02-29.
  */
-
+ 
 public class Counter{ 
     static int numOfObjects=0;
 
